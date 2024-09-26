@@ -22,5 +22,5 @@ fn main() {
         //will create a target/release dir
         //code will run faster but compile time will take more time, thats why wh
 
-    println!("Hello, world!");
+    println!("Hello, Space!");
 }

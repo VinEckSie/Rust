@@ -5,5 +5,5 @@ fn main() {
 //get latest version rustup update
 //uninstall rustup self uninstall
 
-    println!("Hello, world!");
+    println!("Hello, Crew Dragon");
 }
